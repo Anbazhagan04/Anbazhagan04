@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Anbazhagan</h1>
-<h3 align="center">A passionate Artificial Intelligence from India</h3>
+<h3 align="center">A passionate Artificial Intelligence UnderGraduate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anbazhagan04&label=Profile%20views&color=0e75b6&style=flat" alt="anbazhagan04" /> </p>
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif">
-- 🌱 I’m currently learning **Ternsorflow and Django**
+- 🌱 I’m currently learning **Ternsorflow** and **Django**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
