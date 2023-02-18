@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anbazhagan04&label=Profile%20views&color=0e75b6&style=flat" alt="anbazhagan04" /> </p>
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif">
-- 🌱 I’m currently learning **Ternsorflow** and **Django**
+- 🌱 I’m currently learning __Ternsorflow__ and __Django__
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
