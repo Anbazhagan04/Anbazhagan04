@@ -1,58 +1,43 @@
+<h1 align="center">Hey 👋, I'm Anbazhagan E.</h1>
+<h3 align="center">Product Engineer | AI Researcher | Java & Flutter Developer from Chennai, India</h3>
 
-
-<h1 align="center">Hi 👋, I'm Anbazhagan</h1>
-<h3 align="center">A passionate Artificial Intelligence UnderGraduate Engineer from India</h3>
-
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif">
-- 🌱 I’m Engaged in exploring Machine Learning models and web development
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-  
-- 📫 How to reach me **anbu0429@gmail.com**
-
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1Xc9LUOCDfbPjiGHg8IzecpiTI8iCGbS4/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anbazhagan-e-0a5855159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anbazhagan-e-0a5855159" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="420" alt="coding‑gif"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+---
+
+### 🔭 What I’m Building Right Now
+| Project | Stack | Summary |
+|---------|-------|---------|
+| **SpendWise – Personal Expense Tracker** | Flutter • Firebase • Account Aggregator | Animated balance cards, SMS parsing, dynamic budgeting UI |
+| **DayDex – AI‑powered Personal OS** | Vue 3 • Supabase • ElevenLabs | Modular dashboard + voice assistant (“Dexie”) for tasks, moods & routines |
+| **Symptom2Care – AI Symptom Explainer & Triage** | Streamlit • Gemini API | Natural‑language symptom intake, illness routine generation |
+
+### 💼 Professional Snapshot
+- **Product Engineer @ TCS iON BizHub** — Designing Spring Boot micro‑services & Kafka pipelines that serve 5 K+ businesses.  
+- **ML Engineer Intern @ IntellifAI Labs** — Fine‑tuned Stable Diffusion, ESRGAN & TTS‑RVC models for high‑fidelity voice and image generation.  
+- **Researcher** — 4 peer‑reviewed AI publications covering VAE‑GAN ligand design, sentiment‑aware drug recommendation and more. :contentReference[oaicite:0]{index=0}  
+
+### 🛠️ Tech Toolkit
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **Backend** | `Java` · `Spring Boot` · `Kafka` · `JPA` · `SQL` |
+| **Mobile / Web** | `Flutter` · `Vue 3` · `TypeScript` · `Tailwind CSS` |
+| **AI / ML** | `Python` · `TensorFlow` · `PyTorch` · `scikit‑learn` |
+| **Cloud & DevOps** | `AWS` · `GCP` · `Supabase` · `Firebase` · `Docker` |
+| **Data & Streaming** | `Apache Spark` · `PostgreSQL` |
+
+### 📈 GitHub Stats
+<p float="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anbazhagan04&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbazhagan04&layout=compact&theme=transparent" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anbazhagan04&show_icons=true&locale=en&layout=compact" alt="anbazhagan04" /></p>
+### 📫 Reach Me
+[Email](mailto:anbu0429@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anbazhagan-e-0a5855159) | [Resume](https://drive.google.com/file/d/1Xc9LUOCDfbPjiGHg8IzecpiTI8iCGbS4/view?usp=sharing)
 
+---
+
+> *I love shipping maintainable systems and experimenting with AI that solves real‑world problems.  
+> Let’s connect and build something awesome!*
